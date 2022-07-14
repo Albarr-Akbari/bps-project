@@ -1,0 +1,18 @@
+img{
+    width: 50%;
+    height: 50%;
+    border: none;
+}
+body{
+  background-color: aliceblue;  
+}
+h3{
+    color: white;
+}
+.nav{
+position: sticky;
+z-index: 9999999;
+}
+#div{
+  color: orange;
+}
