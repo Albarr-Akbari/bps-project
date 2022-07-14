@@ -9,10 +9,13 @@ body{
 h3{
     color: white;
 }
-.nav{
-position: sticky;
-z-index: 9999999;
-}
 #div{
   color: orange;
+}
+#thebartonav{
+  position: sticky;
+  top: 0px;
+  background-color: black;
+  color: aliceblue;
+  z-index: 9999999999999;
 }
